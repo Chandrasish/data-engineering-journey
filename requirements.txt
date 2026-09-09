@@ -1,0 +1,30 @@
+# Data manipulation & analysis
+pandas
+numpy
+
+# SQL Server & database connectivity
+pyodbc
+SQLAlchemy
+
+# Environment configuration
+python-dotenv
+
+# API data ingestion
+requests
+
+# Excel ingestion
+openpyxl
+
+# PDF ingestion
+pypdf
+pdfplumber
+
+# Word document ingestion
+python-docx
+
+# Jupyter
+jupyter
+ipykernel
+
+# Testing
+pytest
